@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jackyurkanin/SimpleToDo/raw/master/Kapture%202021-06-22%20at%2021.04.31.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+<img src='https://github.com/jackyurkanin/SimpleToDo/raw/master/Kapture%202021-06-22%20at%2021.04.31.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
